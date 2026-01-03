@@ -1,0 +1,49 @@
+.button1{
+    border-radius: 50px;
+    background: #0057fa;
+    white-space: nowrap;
+    padding: 14px 48px;
+    color: #010606;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.button2 {
+    font-size: 20px;
+    border-radius: 5pc;
+    background: #0057fa;
+    padding: 14px;
+    width: 247px;
+    height: 50px;
+    color: white;
+                                            
+  }
+.button2:hover {
+    text-decoration: none;
+    background-color: white;
+    border-color: white;
+    color: black;
+  }
+
+.content{
+  opacity: 1;
+  width:200px;
+  height:100px;
+}
+
+.content:hover{
+  opacity: 0.5;
+  transition: all 400ms ease-out;
+  text-align: center;
+  text-decoration: none;
+  background-color: white;
+  border-color: white;
+  color: black;
+}
