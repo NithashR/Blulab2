@@ -1,5 +1,5 @@
 {
-  "homepage": "https://NithashR.github.io/Blulab2/",
+  "homepage": "https://NithashR.github.io/Blulab2",
   "name": "blulab",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d app"
+    "deploy":"gh-pages -d build"
   },
   "browserslist": {
     "production": [
