@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Blulab2/static/css/main.96f09055.css",
-    "main.js": "/Blulab2/static/js/main.e8890ed1.js",
+    "main.js": "/Blulab2/static/js/main.7b813e4e.js",
     "static/js/453.940f5b29.chunk.js": "/Blulab2/static/js/453.940f5b29.chunk.js",
     "static/media/video1.mp4": "/Blulab2/static/media/video1.43be72a34f1f8ec151bc.mp4",
     "static/media/logo.svg": "/Blulab2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Blulab2/index.html",
     "main.96f09055.css.map": "/Blulab2/static/css/main.96f09055.css.map",
-    "main.e8890ed1.js.map": "/Blulab2/static/js/main.e8890ed1.js.map",
+    "main.7b813e4e.js.map": "/Blulab2/static/js/main.7b813e4e.js.map",
     "453.940f5b29.chunk.js.map": "/Blulab2/static/js/453.940f5b29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96f09055.css",
-    "static/js/main.e8890ed1.js"
+    "static/js/main.7b813e4e.js"
   ]
 }
